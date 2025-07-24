@@ -1,6 +1,0 @@
-cat > vercel.json << 'EOF'
-{
-  "cleanUrls": true,
-  "trailingSlash": false
-}
-EOF
